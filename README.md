@@ -1,4 +1,4 @@
-# theleaderwhohadnotitle
+# booksite
 Book site is a web page that I created for my favourite book "The leader who had no title". In the web page I have summarized the book and included a simple survey that includes some of the other books that the author have written and a textarea to send a message of how you feel about the website, although the form dosen't submit the info.
 
 I created this to help me learn and teach people what I have learned from pirple.com, it is a practise in the course to create a project about once favourite story/book inorder to contineu.
